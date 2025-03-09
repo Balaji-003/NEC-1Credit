@@ -1,5 +1,7 @@
 # Need the below mentioned details as the submission
 ## 1 Commit the code in the respective files
+![Screenshot 2025-02-23 123844](https://github.com/user-attachments/assets/1f7ec1a7-b5cf-4618-95f0-53f44ffb2bfc)
+
 ## 2 Screenshots and commands that you used to build the docker image. Pls note the image name should be `Reg-Number-personal-api(Example: 1214214-personal-api)`
 ## 3 Get your friend's docker image and create a compose.yml and add the screenshots and commands here. Pls ensure that you tested the app correctly
 ## 4 Write Dockerfile for the python file `ml-model.py`. Create image and push to DockerHub `Reg-Number-ml-model(Example: 1214214-ml-model)`
